@@ -1,0 +1,25 @@
+body{
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Sandwich{
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.dropdown{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    padding: 15px;
+    border-radius: 25px;
+    border: 0;
+}
